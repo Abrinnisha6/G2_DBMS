@@ -83,7 +83,9 @@ rename table student to mystudent;
 
 ![D15](https://github.com/Abrinnisha6/G2_DBMS/assets/118889454/8f7bdfde-5e4d-4a81-a4e0-f7b54c975518)
 
+## RESULT :
 
+The queries got the output and statifies the given question.
 
 
 
