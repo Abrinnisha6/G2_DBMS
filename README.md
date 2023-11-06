@@ -73,7 +73,7 @@ truncate table student;
 ![D14](https://github.com/Abrinnisha6/G2_DBMS/assets/118889454/fd65bc49-0406-441d-9a5d-270aad6155ed)
 
 
-## QUERY ::
+## QUERY :
 
 5) Rename the student table to mystudent.
 
